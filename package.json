@@ -1,0 +1,16 @@
+{
+  "name": "test-prototypers",
+  "version": "1.0.0",
+  "description": "\"\"\u001b[Dtrabajo prueba\"",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

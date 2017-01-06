@@ -1,12 +1,16 @@
-#navbar{
+.menu{
 	background-image: url(../img/parallax-1.jpg);
-	width:100%;
+	background-size:100%;
+	background-repeat:no-repeat;	
 
 }
 
-.logo{
-	padding-top:5%;
+.imgpre{
+	background-image: url(../img/parallax-2.jpg);
+	width:150%;
+	background-size:100%;
+	background-repeat:no-repeat;
 }
-#pasion h1{
-	color:#27B1D4;
+.amarillo{
+	background-color:#D7F339;
 }

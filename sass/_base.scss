@@ -11,10 +11,14 @@
 
 }
 .bolsitas{
-	background-image: url(../img/parallax-4.jpg);
+	background-image: url(../img/parallax-3.jpg);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	height: $alto;
+}
+.pasion{
+	margin-left:50%;
+	text-align:center;
 }
 
 .imgpre{
@@ -22,6 +26,7 @@
 	background-size:100%;
 	background-repeat:no-repeat;
 	height: $alto;
+
 }
 .amarillo{
 	background-color:#D7F339;
@@ -49,4 +54,17 @@ h3{
 		padding-right: 10%;
 	}
 }
+.preguntas{
+	text-align:center;
+	margin-top:20%;
+	margin-left:15%;
 
+}
+.icon{
+	margin-right:25%;
+}
+.campo{
+	background-image: url(../img/parallax-3.jpg);
+	background-size:100%
+	height:$alto;
+}
